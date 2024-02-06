@@ -1,0 +1,20 @@
+section{
+    border: 5px solid #000;
+    width: 250px;
+    height: 1000px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.container{
+    width: 150px;
+    height: 150px;
+    background: #09f;
+    position: fixed;
+    z-index: 2;
+}
+
+
+body{
+    background: rgb(188,228,255);
+}
