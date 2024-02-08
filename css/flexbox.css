@@ -1,0 +1,29 @@
+body{
+
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    /*flex-direction: row-reverse; Order the elements to right to left
+    flex-direction: rtl; The same case but need the flex-direction: flex; 
+    */
+    writing-mode: vertical-lr; /* Rotate the content in vertical left to right*/
+
+}
+
+.item{
+    border: 1px solid;
+    opacity: .9;
+    width: 100px;
+    height: 100px;
+    background: #09f;
+}
+
+.item:first-child{
+    background: yellow;
+}
+
+.item:last-child{
+    background: red;
+}
