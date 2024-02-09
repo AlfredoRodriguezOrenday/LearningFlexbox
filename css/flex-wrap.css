@@ -1,0 +1,45 @@
+body{
+
+}
+
+.parent{
+    display: flex;
+    flex-flow: row wrap; 
+    /*flex-direction: flex;*/
+    /*flex-wrap: wrap; /* sets whether flex items are forced onto one line or can wrap onto multiple lines */
+    border: 4px solid #000;
+    width: 200px;
+    box-sizing: border-box;
+
+    
+}
+
+.item{
+    border: 1px solid;
+    box-sizing: border-box;
+    opacity: .9;
+    height: 100px;
+    background: #09f;
+    flex: 1;
+    /*default values*/
+    /*flex-grow: 1; /*The elements don grow up*/
+    /*flex-shrink: 1; /* The elements can't be minimum size that his flex-basis */
+    /*flex-basis: 0; /* The elements have a base size in auto, value 0 is to adapt qith the element that have more content*/
+}
+
+.item:first-child{
+    background: yellow;
+    flex: 2; /*Indicate the size in proportion of the elements*/
+    order: 3;
+}
+
+.item:nth-child(2){
+    background: blue;
+    flex: 4;
+    order: 1;
+}
+
+.item:last-child{
+    background: red;
+    order: 2;
+}
