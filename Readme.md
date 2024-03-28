@@ -29,31 +29,31 @@ console.log("Hello world, my name is Alfredo and this is one of my projects");
 
 ---
 
-## English
+## Español
 ```javascript
 console.log("Hola mundo, mi nombre es Alfredo y este es uno de mis proyectos"); 
 
 ```
 > En este proyecto hice una Web donde intento entender las propiedades del FlexBox
 
->[!NOTE] NOTA
->Use diferentes propiedades de ***css*** para aprender propiedades como:
+> [!NOTE] Nota
+> Use diferentes propiedades de ***css*** para aprender propiedades como:
 >
->:white_check_mark: **display**
+> :white_check_mark: **display**
 >
->:white_check_mark: **flex-flow**
+> :white_check_mark: **flex-flow**
 >
->:white_check_mark: **flex-direction**
+> :white_check_mark: **flex-direction**
 >
->:white_check_mark: **flex-wrap**
+> :white_check_mark: **flex-wrap**
 >
->:white_check_mark: **box-sizing**
+> :white_check_mark: **box-sizing**
 >
->:white_check_mark: **over-flow**
+> :white_check_mark: **over-flow**
 >
->:white_check_mark: **position**
+> :white_check_mark: **position**
 >
->:white_check_mark: **z-index**
+> :white_check_mark: **z-index**
 
 ---
 
