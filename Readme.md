@@ -36,7 +36,7 @@ console.log("Hola mundo, mi nombre es Alfredo y este es uno de mis proyectos");
 ```
 > En este proyecto hice una Web donde intento entender las propiedades del FlexBox
 
->[!NOTE] NOTA
+>[!NOTE, NOTA] 
 >Use diferentes propiedades de ***css*** para aprender propiedades como:
 >
 >:white_check_mark: **display**
@@ -60,5 +60,5 @@ console.log("Hola mundo, mi nombre es Alfredo y este es uno de mis proyectos");
 ## :nerd_face: **About me** || **Acerca de mi** :nerd_face:
 
 > :wink: Do you want contact me? :eyes: Check my profile in :point_right: [LinkedIn](https://www.linkedin.com/in/alfredo-rodríguez-orenday-73a14a215/ "Alfredo Rdz O")  
-
+>
 > :wink: ¿Quieres contactarme? :eyes: Checa mi perfil en :point_right: [LinkedIn](https://www.linkedin.com/in/alfredo-rodríguez-orenday-73a14a215/ "Alfredo Rdz O") 
