@@ -8,7 +8,7 @@ console.log("Hello world, my name is Alfredo and this is one of my projects");
 ```
 > In this project I did a Web where I try to understand the properties of the FlexBox
 
->[!ADMINISTRATION]
+>[!NOTE]
 >I use differents properties from ***css*** to learning the properties like:
 >
 >:white_check_mark: **display**
